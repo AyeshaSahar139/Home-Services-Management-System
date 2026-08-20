@@ -7,7 +7,7 @@ This project demonstrates practical implementation of **database design, ER mode
 ---
 ## 🎥 Application Demo
 
-[▶️ View Application Demo](./demo/home-services-demo.mp4)
+[▶️ View Application Demo](./demo/Demo.mp4)
 
 ## 📌 Project Overview
 
