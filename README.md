@@ -5,6 +5,9 @@ A database-driven **Home Services Management System** developed using **Oracle A
 This project demonstrates practical implementation of **database design, ER modeling, relational schema development, SQL queries, data management, and CRUD operations using Oracle APEX**.
 
 ---
+## 🎥 Application Demo
+
+[▶️ View Application Demo](./demo/home-services-demo.mp4)
 
 ## 📌 Project Overview
 
