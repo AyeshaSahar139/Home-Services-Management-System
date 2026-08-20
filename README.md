@@ -165,7 +165,7 @@ The booking management interface used to manage customer service bookings.
 
 The provider management interface used to manage service provider information.
 
-![Provider Management](screenshots/Providermanagement.png)
+![Provider Management](screenshots/ProviderManagement.png)
 
 ---
 
